@@ -1,9 +1,5 @@
 # BankWise
 
-## Banking Knowledge Assistant
-
- ### Project
-
  The **Banking Knowledge Assistant** is an AI-powered application that allows users to ask questions about banking policies, procedures, and other banking-related information. It uses uploaded documents as its knowledge base and provides relevant, context-aware answers through a conversational interface.
 
  ### Working
